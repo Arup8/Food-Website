@@ -1,0 +1,4 @@
+bg1 : https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+bg2 : https://cdn.pixabay.com/photo/2016/12/26/17/28/spaghetti-1932466_1280.jpg
+contact : https://cdn.pixabay.com/photo/2019/05/10/13/28/contact-us-4193523_640.jpg
+logo : https://img.freepik.com/free-psd/isolated-hamburger-with-splash-ink-background_1409-3855.jpg?size=338&ext=jpg&ga=GA1.1.1700460183.1708560000&semt=ais
